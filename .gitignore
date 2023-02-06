@@ -1,6 +1,8 @@
 # The ASL Alphabet dataset
 asl_alphabet_test/
 asl_alphabet_train/
+annotated_asl_alphabet_test/
+annotated_asl_alphabet_train/
 
 # pycache
 __pycache__/
